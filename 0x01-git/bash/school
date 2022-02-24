@@ -1,2 +1,2 @@
-!#/bin/bsh
-echo "school"
+!#/bin/bash
+echo "The school is open!"
